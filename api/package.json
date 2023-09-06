@@ -2,7 +2,7 @@
   "name": "foodadvisor",
   "private": true,
   "version": "2.0.1",
-  "description": "Official Strapi Demo Application",
+  "description": "The Official Strapi Demo Application",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
